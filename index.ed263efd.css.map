@@ -1,0 +1,1 @@
+{"mappings":"AEAA","sources":["index.ed263efd.css","src/sass/index.scss","src/sass/layout/_header.scss"],"sourcesContent":[".header {\n  background-color: #0ff;\n}\n\n/*# sourceMappingURL=index.ed263efd.css.map */\n","@import './layout/header';\n",".header {\n    background-color: aqua;\n}"],"names":[],"version":3,"file":"index.ed263efd.css.map"}
